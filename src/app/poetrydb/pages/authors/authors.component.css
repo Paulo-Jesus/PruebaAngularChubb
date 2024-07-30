@@ -1,0 +1,9 @@
+.table-scrollable {
+  max-height: 600px; /* ajusta la altura máxima según tus necesidades */
+  overflow-y: auto;
+}
+
+.table-scrollable-modal {
+  max-height: 450px; /* ajusta la altura máxima según tus necesidades */
+  overflow-y: auto;
+}
